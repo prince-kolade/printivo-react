@@ -1,0 +1,53 @@
+.span-1:hover{
+    cursor: pointer;
+}
+.section-3{
+    margin-top: 100px;
+    padding: 16px 46px;
+}
+.you{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #384a62;
+    font-weight: 600;
+    font-size: 30px;
+}
+.order{
+    max-width: 250px;
+    color: #677f9e;
+    font-size: 15.5px;
+}
+.fast{
+    color: #384a62;
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+.section-4{
+    background: #f7f6f4;
+    padding-top: 5.5rem;
+    padding-left: 40px;
+    padding-bottom: 5.5rem;
+    margin-top: 100px;
+    padding-right: 27px;
+}
+.footer{
+    background: #384a62;
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 150px;
+    justify-content: space-between;
+}
+.prin{
+    color: #ece8d9;
+}
+.about{
+    color: white;
+}
+.div-5{
+    background: #cbcac8;
+    height: 50px;
+    color: #384a62;
+}
+.fa-bars{
+    display: none;
+}
